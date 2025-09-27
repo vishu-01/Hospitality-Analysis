@@ -6,7 +6,8 @@ As a data consultant, I analyzed their hospitality data using **Power BI** and d
 
 ---
 
- Explore the live dashboard [here]((https://app.powerbi.com/view?r=eyJrIjoiZmMwMzJhNTAtMWJhMy00NTJkLThhMzQtMTRiMjBlYzY5NzQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)).
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZmMwMzJhNTAtMWJhMy00NTJkLThhMzQtMTRiMjBlYzY5NzQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+
 
  
 ## 🎯 Goal
